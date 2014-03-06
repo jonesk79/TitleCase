@@ -1,4 +1,4 @@
-titlecase
+Titlecase
 =========
 
 Capitalize a word or phrase.
